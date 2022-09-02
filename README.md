@@ -6,7 +6,7 @@
 
 🦄 I’m currently working on **#100Devs**
 
-🔭 I’m currently learning **Javascript**
+🔭 I’m currently learning **Cybersecurity**
 
 👩‍💻 All of my projects are available **Online TBD**
 
