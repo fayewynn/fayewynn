@@ -1,14 +1,14 @@
 <h1 align="center">FAYE | WYNN</h1>
-<h3 align="center">Full-Stack Software Developer & Multimedia Designer </h3>
+<h3 align="center">Full-Stack Software Developer && Cybersecurity Analyst && Multimedia Designer </h3>
 
 <br>
  
 
-🦄 I’m currently working on **#100Devs**
+🦄 I’m currently *busy building*
 
-🔭 I’m currently learning **Cybersecurity**
+🔭 I’m currently finishing **100Devs** 
 
-👩‍💻 All of my projects are available **Online TBD**
+👩‍💻 All of my projects are available **TBD**
 
 📽️ Interests **Film | Music | Photography**
 
